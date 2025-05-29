@@ -27,16 +27,3 @@ Using historical race data from a Kaggle competition, I applied machine learning
 - XGBoost improved with tuning, but Random Forest remained the most accurate
 - Data cleaning was the most important (and hardest) step
 
----
-
-## Reflections
-This wasn’t just a class project. It was a chance to connect my passion for F1 with everything I’ve been learning in class. It reminded me how messy real data can be—and how rewarding it is when you get it right.
-
----
-
-## Tools Used
-- Python (pandas, scikit-learn, xgboost, matplotlib, seaborn)
-- Jupyter Notebook
-- Kaggle Formula 1 Datathon dataset
-
----
