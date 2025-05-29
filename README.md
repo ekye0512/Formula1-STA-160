@@ -9,6 +9,8 @@ Using historical race data from a Kaggle competition, I applied machine learning
 ---
 
 ## Header Image  
+![image](https://github.com/user-attachments/assets/1eefe209-3412-422c-a3ab-cbfff1838d6c)
+
 ![Formula 1 Cars](/Users/eric/Desktop/Spring 2025/STA 160/Photos/Lewis-Hamilton-Charles-Leclerc-Ferrari-3.webp)  
 *Photo credit: [Source Name or URL]*
 
