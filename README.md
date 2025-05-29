@@ -4,7 +4,7 @@
 Hi! I’m **Eric Kye**, a huge Formula 1 fan and a stats major at UC Davis.  
 This project is my final capstone for **STA 160** and wraps up my four-year undergrad journey in statistical data science.
 
-Using historical race data from a Kaggle competition, I applied machine learning models to predict driver finishing positions (1–20). This challenge let me bring together everything I’ve learned—data cleaning, visualization, model building—and apply it to a real-world problem in a sport I love.
+Using historical race data from a Kaggle competition, I applied machine learning models to predict driver finishing positions (1–20). This challenge let me bring together everything I’ve learned in undergrad which is data cleaning, visualization, model building—and apply it to a real-world problem in a sport I love.
 
 ---
 
