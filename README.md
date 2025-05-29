@@ -4,7 +4,13 @@
 Hi! I’m **Eric Kye**, a huge Formula 1 fan and a stats major at UC Davis.  
 This project is my final capstone for **STA 160** and wraps up my four-year undergrad journey in statistical data science.
 
-Using historical race data from a Kaggle competition, I applied machine learning models to predict driver finishing positions (1–20). This challenge let me bring together everything I’ve learned in undergrad which is data cleaning, visualization, model building—and apply it to a real-world problem in a sport I love.
+Using historical race data from a Kaggle competition, I applied machine learning models to predict driver finishing positions (1–20). This challenge let me bring together everything I’ve learned in undergrad—data cleaning, visualization, model building—and apply it to a real-world problem in a sport I love.
+
+---
+
+## Header Image  
+![Formula 1 Cars](/Users/eric/Desktop/Spring 2025/STA 160/Photos/Lewis-Hamilton-Charles-Leclerc-Ferrari-3.webp)  
+*Photo credit: [Source Name or URL]*
 
 ---
 
@@ -26,4 +32,3 @@ Using historical race data from a Kaggle competition, I applied machine learning
 - Starting grid, wins, and season points were the most predictive features
 - XGBoost improved with tuning, but Random Forest remained the most accurate
 - Data cleaning was the most important (and hardest) step
-
